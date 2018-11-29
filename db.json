@@ -62,7 +62,7 @@
         "description": "CC same in both",
         "external_id": "123",
         "abbreviation": "123",
-        "payroll_code: "123",
+        "payroll_code": "123",
         "gl_codes": [
             {
                 "index": 0,
