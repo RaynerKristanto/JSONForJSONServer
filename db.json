@@ -1,4 +1,145 @@
 {
+	"time-entries": {
+		"time_entry_sets": [{
+				"employee": {
+					"account_id": 2354242
+				},
+				"start_date": "2016-05-01",
+				"end_date": "2016-05-30",
+				"time_entries": [{
+						"id": 215425665,
+						"date": "2016-05-02",
+						"type": "TIME",
+						"start_time": "2016-05-02T04:00:00.000-05:00",
+						"end_time": "2016-05-02T06:00:00.000-05:00",
+						"total": 7560000,
+						"time_off": {
+							"id": 1539588
+						},
+						"pay_category": {
+							"id": 145283
+						},
+						"premium_shift": {
+							"id": 72705
+						},
+						"cost_centers": [{
+								"index": 4,
+								"value": {
+									"id": 1542209
+								}
+							},
+							{
+								"index": 6,
+								"value": {
+									"id": 1542209
+								}
+							}
+						],
+						"custom_fields": [{
+								"index": 0,
+								"value": "value"
+							},
+							{
+								"index": 3,
+								"value": "val"
+							}
+						],
+						"is_raw": true,
+						"is_calc": true,
+						"calc_start_time": "2016-05-02T04:00:00.000-05:00",
+						"calc_end_time": "2016-05-02T06:00:00.000-05:00",
+						"calc_total": 7560000,
+						"calc_pay_category": {
+							"id": 145283
+						},
+						"calc_premium_shift": {
+							"id": 72705
+						},
+						"piecework": 10,
+						"amount": 50
+					},
+					{
+						"id": 216305027,
+						"date": "2016-05-01",
+						"type": "TIME",
+						"start_time": "2016-05-01T04:00:00.000-05:00",
+						"total": 0,
+						"is_raw": true,
+						"is_calc": false
+					}
+				]
+			},
+			{
+				"employee": {
+					"account_id": 2354241
+				},
+				"start_date": "2016-05-01",
+				"end_date": "2016-05-30",
+				"time_entries": [{
+						"id": 215425663,
+						"date": "2016-05-02",
+						"type": "TIME",
+						"start_time": "2016-05-02T02:00:00.000-05:00",
+						"end_time": "2016-05-02T04:00:00.000-05:00",
+						"total": 7560000,
+						"time_off": {
+							"id": 1539388
+						},
+						"pay_category": {
+							"id": 145183
+						},
+						"premium_shift": {
+							"id": 72205
+						},
+						"cost_centers": [{
+								"index": 4,
+								"value": {
+									"id": 1541209
+								}
+							},
+							{
+								"index": 6,
+								"value": {
+									"id": 1541209
+								}
+							}
+						],
+						"custom_fields": [{
+								"index": 0,
+								"value": "value"
+							},
+							{
+								"index": 3,
+								"value": "val"
+							}
+						],
+						"is_raw": true,
+						"is_calc": true,
+						"calc_start_time": "2016-05-02T04:00:00.000-05:00",
+						"calc_end_time": "2016-05-02T06:00:00.000-05:00",
+						"calc_total": 7560000,
+						"calc_pay_category": {
+							"id": 145183
+						},
+						"calc_premium_shift": {
+							"id": 72205
+						},
+						"piecework": 10,
+						"amount": 50
+					},
+					{
+						"id": 216305028,
+						"date": "2016-05-01",
+						"type": "TIME",
+						"start_time": "2016-05-01T04:00:00.000-05:00",
+						"total": 0,
+						"is_raw": true,
+						"is_calc": false
+					}
+				]
+			}
+		]
+	},
 	"employees": {
 		"employees": [{
 				"id": 1,
