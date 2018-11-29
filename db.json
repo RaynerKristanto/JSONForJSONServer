@@ -68,7 +68,7 @@
                 "index": 0,
                 "value": "123"
             }
-        ],
+        ]
       },
       {
         "id": 1540932,
@@ -76,7 +76,7 @@
         "name": "CC3_2.1",
         "description": "Description for CC3_2.1",
         "payroll_code": "89",
-        "external_id": "9"
+        "external_id": "456"
       },
       {
         "id": 1540933,
