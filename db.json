@@ -35,7 +35,7 @@
   ],
   
  "cost-centers": {
-   [ "tree_index":0,
+   [ {"tree_index":0,
   "cost_centers": [
     {
       "id": 1540749,
@@ -75,6 +75,6 @@
       "name": "CC3_1.2"
     }
   ]
-   ]
+     }]
   }
 }
