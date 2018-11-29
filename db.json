@@ -227,8 +227,27 @@
 	
 	
 	"cost-centers?tree_index=1": {
-		"cost_centers": [{
+		"cost_centers": [
+			{
+				"id": 222222,
+				"external_id": "HO",
+				"abbreviation": "HO",
+				"payroll_code": "HO",
+				"name": "Home Office",
+				"description": "Home Office"
+			},
+			{
+				"id": 222223,
+				"external_id": "Dist",
+				"abbreviation": "Dist",
+				"payroll_code": "Dist",
+				"name": "Distribution",
+				"description": "Distribution"
+			},
+			
+			{
 				"id": 12345,
+				"parent_id": 222222,
 				"external_id": "H8528",
 				"abbreviation": "H8528",
 				"payroll_code": "H8528",
@@ -237,6 +256,7 @@
 			},
 			{
 				"id": 12346,
+				"parent_id": 222223,
 				"external_id": "DO625",
 				"abbreviation": "DO625",
 				"payroll_code": "DO625",
@@ -245,6 +265,7 @@
 			},
 			{
 				"id": 12347,
+				"parent_id": 222222,
 				"external_id": "H1065",
 				"abbreviation": "H1065",
 				"payroll_code": "H1065",
@@ -253,6 +274,7 @@
 			},
 			{
 				"id": 12348,
+				"parent_id": 222223,
 				"external_id": "DQ612",
 				"abbreviation": "DQ612",
 				"payroll_code": "DQ612",
@@ -261,6 +283,7 @@
 			},
 			{
 				"id": 12349,
+				"parent_id": 222222,
 				"external_id": "H6205",
 				"abbreviation": "H6205",
 				"payroll_code": "H6205",
