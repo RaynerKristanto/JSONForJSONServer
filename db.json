@@ -2,7 +2,7 @@
 	"time-entries": {
 		"time_entry_sets": [{
 				"employee": {
-					"account_id": 2354242
+					"account_id": 1
 				},
 				"start_date": "2016-05-01",
 				"end_date": "2016-05-30",
@@ -71,7 +71,7 @@
 			},
 			{
 				"employee": {
-					"account_id": 2354241
+					"account_id": 2
 				},
 				"start_date": "2016-05-01",
 				"end_date": "2016-05-30",
@@ -147,7 +147,7 @@
 				"first_name": "first_name",
 				"last_name": "last_name",
 				"employee_id": "employee_id",
-				"external_id": "external_id",
+				"external_id": "20626",
 				"primary_account_id": 1,
 				"_links": {
 					"self": "https://example.com/ta/rest/v2/companies/453313/employees/1",
@@ -163,7 +163,7 @@
 				"first_name": "first_name 2",
 				"last_name": "last_name 2",
 				"employee_id": "employee_id 2",
-				"external_id": "external_id 2",
+				"external_id": "21265",
 				"primary_account_id": 2,
 				"_links": {
 					"self": "https://example.com/ta/rest/v2/companies/453313/employees/2",
