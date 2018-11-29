@@ -34,7 +34,7 @@
     }
   ],
   
- "cost-centers": {
+ "cost-centers": 
    [ {"tree_index":0,
   "cost_centers": [
     {
@@ -76,5 +76,5 @@
     }
   ]
      }]
-  }
+  
 }
